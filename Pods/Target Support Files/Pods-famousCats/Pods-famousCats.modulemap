@@ -1,0 +1,6 @@
+framework module Pods_famousCats {
+  umbrella header "Pods-famousCats-umbrella.h"
+
+  export *
+  module * { export * }
+}
